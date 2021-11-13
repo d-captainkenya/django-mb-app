@@ -1,1 +1,1 @@
-# mb-app
+# django mb-app
